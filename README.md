@@ -20,7 +20,7 @@
 ## Структура проекта
 
 
-BKR_defect_detection/
+BKR_defect_detection
 ├── data/ # Датасет MVTec AD
 ├── results/ # Папка для сохранения результатов тестирования
 ├── src/ # Исходный код
